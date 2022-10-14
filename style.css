@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Freehand&display=swap');
+
+/*font-family
+font-weight
+font-size
+text-align
+color
+background-color
+img width, height*/
+
+body{
+    font-family: 'Frank Ruhl Libre', serif;
+    background-color:beige;
+}
+
+h1, h2{
+    font-weight: 400;
+    text-align: center;
+}
+
+li {
+    color: rgb(63, 51, 51);
+}
+
+.note{
+    font-family: 'Freehand', cursive;
+    font-size: 1.8rem;
+    color:#18187e;
+}
+
+.div_center{
+    text-align: center;
+}
+
+.div_center p{
+    text-align: left;
+}
+
+#img_700{
+    width: 700px;
+    height: auto;
+}
+
+.img_500{
+    width: 500px;
+    height:auto;
+}
+
+.img_300{
+    width: 300px;
+    height: auto;
+}
+
+ul#navi{
+    font-size: large;
+    font-weight: bolder;
+}
